@@ -4,6 +4,9 @@
 * kawalcorona.com [here](https://kawalcorona.com/api/) or
 * covid19api.com [here](https://covid19api.com/).
 
+### note : 
+if data not found maybe url api have problems.
+
 
 ***
 #####   For more contact me :
