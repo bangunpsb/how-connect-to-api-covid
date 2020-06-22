@@ -1,7 +1,7 @@
 # how-connect-to-api-covid
 
 ### get api covid : 
-* kawalcorona.com/api [here](https://kawalcorona.com/api/) or
+* kawalcorona.com [here](https://kawalcorona.com/api/) or
 * covid19api.com [here](https://covid19api.com/).
 
 
